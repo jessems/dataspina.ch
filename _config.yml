@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Data Spinach
 locale:           en_US
-url:
+url:              www.dataspina.ch
 
 
 # Jekyll configuration
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Jesse Szepieniec
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Chief Spinach at Data Spinach"
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: #jessems
   facebook: #username
   google:
     plus: #username
